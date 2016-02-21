@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[California Association of Emergency Medical Technicians]]></title>
+        <description><![CDATA[California Association of Emergency Medical Technicians]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Feb 2016 07:41:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><p>The mission of the California Association of Emergency
+Medical Technicians is to serve the prehospital EMS care providers of
+California by presenting networking opportunities, offer continuing education,
+work with CAAEMT partners to give discounts on services and products, and
+represent its membership during discussions that will readily affect their
+practice and protocols.</p></article>]]></description>
+            <link>undefinedabout-us/index.html</link>
+            <guid isPermaLink="false">2f6be0c7-80b1-42b9-8268-6d93e864373a</guid>
+            <pubDate>Sun, 21 Feb 2016 07:41:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
